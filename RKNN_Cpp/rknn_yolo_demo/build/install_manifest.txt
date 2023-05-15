@@ -1,0 +1,4 @@
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/install/rknn_yolo_demo/./rknn_yolo_demo
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/install/rknn_yolo_demo/.//model/yolov5.rknn
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/install/rknn_yolo_demo/.//model/mask.jpg
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/install/rknn_yolo_demo/lib/librknn_api.so

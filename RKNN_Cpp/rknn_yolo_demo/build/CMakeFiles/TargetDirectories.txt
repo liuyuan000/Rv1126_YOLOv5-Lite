@@ -1,0 +1,7 @@
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/install/strip.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/install/local.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/install.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/list_install_components.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/edit_cache.dir
+/home/alientek/atk/yolov5_lite_object_recognize/RKNN_Cpp/rknn_yolo_demo/build/CMakeFiles/rknn_yolo_demo.dir
